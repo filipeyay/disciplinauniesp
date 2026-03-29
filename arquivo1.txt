@@ -1,4 +1,3 @@
 Faculdade Uniesp
 Curso: Ciências da Computação
-Filipe Maciel de Souza Andrade
-Tópicos Essenciais para Programação
+Respondendo a lista de exercício do GitHub
